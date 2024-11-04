@@ -1,0 +1,3 @@
+make laundry
+water plants
+buy food
